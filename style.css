@@ -1,0 +1,63 @@
+/* .block{
+    width: 100px;
+    height: 170px;
+    border: 1px solid #000;
+    margin:10px 0;
+    background-color: red;
+    display: none;
+}
+
+.red{
+    background-color: red;
+}
+
+.border{
+    border: 10px double #000;
+} */
+
+input[type="text"]{
+    margin: 10px;
+}
+
+/* div{
+    width: 0;
+    height: 30px;
+    display: inline-block;
+    margin: 5px;
+}
+
+div:nth-of-type(1){
+    background-color: red;
+}
+
+div:nth-of-type(2){
+    background-color: green;
+}
+
+div:nth-of-type(3){
+    background-color: blue;
+} */
+
+.resize{
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+.scroll{
+    position: fixed;
+    top: 30px;
+    right: 10px;
+}
+
+.big-box{
+    width: 200px;
+    height: 2000px;
+    background: linear-gradient(to top, lightgreen, #f0f);
+}
+
+.arrow{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: green;
+}
